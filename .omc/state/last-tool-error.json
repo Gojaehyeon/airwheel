@@ -1,0 +1,7 @@
+{
+  "tool_name": "mcp__puppeteer__puppeteer_navigate",
+  "tool_input_preview": "{\"url\":\"http://localhost:8090/?view=control&v=10\"}",
+  "error": "MCP error -32603: Attempted to use detached Frame '2245E83A308A15F78D246D4400D21795'.",
+  "timestamp": "2026-06-01T06:14:40.451Z",
+  "retry_count": 1
+}

@@ -1,0 +1,89 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1780283426470,
+  "projectRoot": "/Users/go/develop/airwheel",
+  "techStack": {
+    "languages": [
+      {
+        "name": "JavaScript/TypeScript",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "package.json"
+        ]
+      }
+    ],
+    "frameworks": [],
+    "packageManager": "npm",
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": "npm run dev",
+    "scripts": {
+      "start": "npx --yes serve -l 8080 .",
+      "dev": "python3 -m http.server 8080"
+    }
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": null
+  },
+  "customNotes": [],
+  "directoryMap": {},
+  "hotPaths": [
+    {
+      "path": "game.js",
+      "accessCount": 36,
+      "lastAccessed": 1780293986690,
+      "type": "file"
+    },
+    {
+      "path": "main.js",
+      "accessCount": 21,
+      "lastAccessed": 1780296529599,
+      "type": "file"
+    },
+    {
+      "path": "styles.css",
+      "accessCount": 12,
+      "lastAccessed": 1780296720223,
+      "type": "file"
+    },
+    {
+      "path": "index.html",
+      "accessCount": 10,
+      "lastAccessed": 1780296269223,
+      "type": "file"
+    },
+    {
+      "path": "wheel.png",
+      "accessCount": 2,
+      "lastAccessed": 1780296199726,
+      "type": "file"
+    },
+    {
+      "path": "_bgremove.py",
+      "accessCount": 1,
+      "lastAccessed": 1780296190059,
+      "type": "file"
+    },
+    {
+      "path": "_preview.png",
+      "accessCount": 1,
+      "lastAccessed": 1780296236650,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}

@@ -1,0 +1,12 @@
+{
+  "name": "airwheel",
+  "version": "1.0.0",
+  "description": "맥북 웹캠으로 양손 허공 핸들을 돌려 즐기는 MediaPipe 기반 3D 레이싱 게임",
+  "type": "module",
+  "scripts": {
+    "start": "npx --yes serve -l 8080 .",
+    "dev": "python3 -m http.server 8080"
+  },
+  "keywords": ["mediapipe", "threejs", "hand-tracking", "racing", "webcam", "game"],
+  "license": "MIT"
+}
